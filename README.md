@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://i.imgur.com/4DazrHs.png" width="450"/>
+<img src="https://i.imgur.com/XVacsZh.gif" width="450"/>
